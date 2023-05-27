@@ -352,8 +352,6 @@ http://159.75.85.63:5679/cctv4k.php
 https://live.v1.mk/aishang/cctv164k
 
 
-#EXTINF:-1 group-title="广东",广东珠江
-http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",南国都市
@@ -375,26 +373,6 @@ https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="西藏",西藏影视文化
 https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
 
-#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="其他",求索纪录
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CHC电影" tvg-name="CHC电影" tvg-logo="https://epg.112114.xyz/logo/CHC电影.png" group-title="其他",CHC电影
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实 
-https://live.v1.mk/aishang/jyjs
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="其他",金鹰卡通 
-https://live.v1.mk/aishang/jykt
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿 
-https://live.v1.mk/aishang/kkse
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通 
-https://live.v1.mk/aishang/jjkt
-#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="其他",新动漫
-https://live.v1.mk/aishang/xdm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="其他",华语影院
-https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
 
 #EXTINF:-1 group-title="广播",格莱美音乐台
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
