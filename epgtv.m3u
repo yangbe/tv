@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" group-title="IPV6•央视",CCTV1「IPV6」•支持回看
 http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" group-title="IPV6.央视",CCTV1-4K「IPV6」
+#EXTINF:-1 tvg-name="CCTV8" group-title="IPV6•央视",CCTV1-4K「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb07]/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="IPV6•央视",CCTV2「IPV6」•支持回看
 http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" group-title="IPV6•央视",CCTV3「IPV6」•支持回看
 http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" group-title="IPV6.央视",CCTV3-4K「IPV6」
+#EXTINF:-1 tvg-name="CCTV8" group-title="IPV6•央视",CCTV3-4K「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" group-title="IPV6•央视",CCTV4「IPV6」•支持回看
 http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226303/index.m3u8
@@ -17,13 +17,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 http://[2409:8087:4402:20:1:1216:401:12]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" group-title="IPV6•央视",CCTV6「IPV6」•支持回看
 http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" group-title="IPV6.央视",CCTV6-4K「IPV6」
+#EXTINF:-1 tvg-name="CCTV6" group-title="IPV6•央视",CCTV6-4K「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" group-title="IPV6•央视",CCTV7「IPV6」•支持回看
 http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226678/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" group-title="IPV6•央视",CCTV8「IPV6」•支持回看
 http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226687/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" group-title="IPV6.央视",CCTV8-4K「IPV6」
+#EXTINF:-1 tvg-name="CCTV8" group-title="IPV6•央视",CCTV8-4K「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" group-title="IPV6•央视",CCTV9「IPV6」•支持回看
 http://[2409:8087:4402:20:1:1216:401:3a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/index.m3u8
