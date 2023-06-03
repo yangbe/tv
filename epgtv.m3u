@@ -422,8 +422,10 @@ https://epg.pw/stream/74c5e8d3ca9f81bc0f55fab1ec870e7cd1a1067925ff3fbe4551687ba6
 https://epg.pw/stream/d8a126c8b3fc7167745ea047db725a915ef5afd31742ead15b58a2cc1af6b886.ctv
 #EXTINF:-1 group-title="体育",beIN SPORTS 3
 https://epg.pw/stream/b950b582e929cdf2f012c4f96d8822c3fc31db5f94f14ce3de186a21cc22efce.ctv
+#EXTINF:-1 group-title="体育",劲爆体育
+https://epg.pw/stream/bebc49c83b816db9c408396abdcd75bd31d9420f2a0b3077a6c097f9c2c52b93.ctv
 #EXTINF:-1 group-title="体育",纬来体育
-https://pull-l3-cny.douyincdn.com/live/f89bc3eba5db1fac0a7ab0bd05a017ce.m3u8
+https://pull-l3-cny.douyincdn.com/live/02579c31a02122870f81227a78bda103.m3u8
 
 #EXTINF:-1 group-title="其它",中国教育1台
 https://epg.pw/stream/00c16567717345a0f8078f82dd885447382ea8f12d278a3b8d647faf9c0d8fba.ctv
