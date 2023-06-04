@@ -49,7 +49,7 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m3u8?
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" group-title="IPV6•央视",CCTV•4K 「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 group-title="IPV6•4K",CCTV•8K「IPV6」
+#EXTINF:-1 group-title="IPV6•央视",CCTV•8K「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="兵器科技" group-title="IPV6•央视",CCTV兵器科技「IPV6」
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
