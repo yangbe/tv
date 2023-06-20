@@ -384,11 +384,7 @@ https://epg.pw/stream/1c1fe14530d8e82b5a8dffe66f2d6628308f796f068642083be0c690bb
 https://epg.pw/stream/ad18f092fba1c5d52443ea43024db5b1b26cd048580eea46336428e9a4aaf0e5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东.epgpw",翡翠台
-https://epg.pw/stream/8ada930782f44a5b59d3a438494166566f4b27f795e8bd66cac0b81e81b232af.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东.epgpw",翡翠台
-https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东.epgpw",翡翠台
-http://gslb.gcable.cn:8070/live/1350_4500.m3u8?t=b9fe6157aedccb24&u=freeuser&p=1&pid=&cid=1332&d=b9fe6157aedccb24&sid=963qdBvMY/i6wufZr3m1MA==&r=20230603191503&e=20230604011508&nc=e5ZMfXJOkxzd&a=7&v=2
+https://epg.pw/stream/55148f6bbc04101a5e1f15a10682660e9ecaef5d1d13320d4f652ebb01ccbf80.ctv
 
 #EXTINF:-1 group-title="体育",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
