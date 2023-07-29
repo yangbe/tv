@@ -304,10 +304,10 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="IPV6•4K",纯享4K「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+#EXTINF:-1 group-title="IPV6•4K",华数4K「IPV6」
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 group-title="IPV6•4K",4K 修复「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 group-title="IPV6•4K",BesTV 4K
-http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 tvg-name="河南卫视" group-title="IPV6•4K",河南卫视 4K 「IPV6」
 http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" group-title="IPV6•4K",SiTV欢笑剧场4K 「IPV6」
@@ -352,6 +352,10 @@ https://justsometime.gztv.com/sec/jingsai.m3u8
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",生活HD
 http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8?zguangd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东珠江
+http://60.208.16.27:1505/gudou.php?id=364&id=gdzhujiangHD_7500
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东体育
+http://60.208.16.27:1505/gudou.php?id=364&id=1413
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东.epgpw",广州影视
 https://epg.pw/stream/01e9b251ff180c7e8b06859ea641c3b5f393ea0e6b924032e43e75d8391c0568.m3u8
