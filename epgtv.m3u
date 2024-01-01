@@ -15,39 +15,42 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/o
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" group-title="IPV6•央视",CCTV5+「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" group-title="IPV6•央视",CCTV6「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb13]/wh7f454c46tw3940641123_459833286/ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="IPV6·央视",CCTV6「IPV6」
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001188/index.m3u8?love=freedom
 #EXTINF:-1 tvg-name="CCTV6" group-title="IPV6•央视",CCTV6•4K「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" group-title="IPV6•央视",CCTV7「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001236/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV8" group-title="IPV6•央视",CCTV8「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" group-title="IPV6•央视",CCTV9「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001237/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV10" group-title="IPV6•央视",CCTV10「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001238/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV11" group-title="IPV6•央视",CCTV11「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001309/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV12" group-title="IPV6•央视",CCTV12「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001239/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV13" group-title="IPV6•央视",CCTV13「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001328/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV14" group-title="IPV6•央视",CCTV14「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001240/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV15" group-title="IPV6•央视",CCTV15「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001338/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV16" group-title="IPV6•央视",CCTV16「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV7" group-title="IPV6·央视",CCTV7「IPV6」
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001236/index.m3u8?love=freedom
+#EXTINF:-1 tvg-name="CCTV8" group-title="IPV6·央视",CCTV8「IPV6」
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001189/index.m3u8?love=freedom
+#EXTINF:-1 tvg-name="CCTV9" group-title="IPV6·央视",CCTV9「IPV6」
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001237/index.m3u8?love=freedom
+#EXTINF:-1 tvg-name="CCTV10" group-title="IPV6·央视",CCTV10「IPV6」
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001238/index.m3u8?love=freedom
+#EXTINF:-1 tvg-name="CCTV11" group-title="IPV6·央视",CCTV11「IPV6」
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001309/index.m3u8?love=freedom
+#EXTINF:-1 tvg-name="CCTV12" group-title="IPV6·央视",CCTV12「IPV6」
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001239/index.m3u8?love=freedom
+#EXTINF:-1 tvg-name="CCTV13" group-title="IPV6·央视",CCTV13「IPV6」
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001328/index.m3u8?love=freedom
+#EXTINF:-1 tvg-name="CCTV14" group-title="IPV6·央视",CCTV14「IPV6」
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001240/index.m3u8?love=freedom
+#EXTINF:-1 tvg-name="CCTV15" group-title="IPV6·央视",CCTV15「IPV6」
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001338/index.m3u8?love=freedom
+#EXTINF:-1 tvg-name="CCTV16" group-title="IPV6·央视",CCTV16「IPV6」
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001258/index.m3u8?love=freedom
 #EXTINF:-1 tvg-name="CCTV16" group-title="IPV6•央视",CCTV16•4K 「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" group-title="IPV6•央视",CCTV17「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV17" group-title="IPV6·央视",CCTV17「IPV6」
+http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001241/index.m3u8?love=freedom
+
+
 #EXTINF:-1 tvg-name="CCTV4K" group-title="IPV6•央视",CCTV•4K 「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" group-title="IPV6•央视",CCTV•4K 「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 group-title="IPV6•央视",CCTV•8K「IPV6」
+
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="兵器科技" group-title="IPV6•央视",CCTV兵器科技「IPV6」
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
@@ -159,6 +162,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw3347158460_-210329776/ot
 http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw3394080033_642200653/ott.mobaibox.com/PLTV/3/224/3221226999/index.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" group-title="IPV6•卫视",康巴卫视「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3423902933_-437655574/ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8
+
 
 #EXTINF:-1 tvg-name="凤凰中文" group-title="IPV6•数字",凤凰中文「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
